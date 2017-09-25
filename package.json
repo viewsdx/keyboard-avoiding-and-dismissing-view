@@ -1,6 +1,6 @@
 {
   "name": "keyboard-avoiding-and-dismissing-view",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "license": "BSD-3-Clause",
   "description": "React Native KeyboardAvoidingView wrapped with a Touchable to dismiss when the user clicks outside",

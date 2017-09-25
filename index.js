@@ -9,6 +9,7 @@ export default class KeyboardAvoidingAndDismissingView extends React.PureCompone
   static propTypes = KeyboardAvoidingView.propTypes
 
   static defaultProps = {
+    behavior: 'padding',
     keyboardVerticalOffset: 0,
     style: { flex: 1 },
   }
