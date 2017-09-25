@@ -1,0 +1,20 @@
+{
+  "name": "keyboard-avoiding-and-dismissing-view",
+  "version": "1.0.3",
+  "main": "index.js",
+  "license": "BSD-3-Clause",
+  "description": "React Native KeyboardAvoidingView wrapped with a Touchable to dismiss when the user clicks outside",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viewsdx/keyboard-avoiding-and-dismissing-view.git"
+  },
+  "author": "Darío Javier Cravero <dario@uxtemple.com>",
+  "bugs": {
+    "url": "https://github.com/viewsdx/keyboard-avoiding-and-dismissing-view/issues"
+  },
+  "homepage": "https://github.com/viewsdx/keyboard-avoiding-and-dismissing-view#readme"
+}
